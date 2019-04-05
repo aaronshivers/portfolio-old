@@ -1,5 +1,11 @@
 {
-  "name": "Aaron Shivers",
+  "name": "Aaron Shivers - Portfolio",
+  "short_name": "Aaron Shivers",
+  "start_url": "/index.html",
+  "scope": ".",
+  "display": "standalone",
   "background_color": "#1a1a1a",
-  "theme_color": "#1a1a1a"
+  "theme_color": "#1a1a1a",
+  "description": "Thanks for viewing my portfolio, Aaron",
+  "lang": "en-US"
 }
