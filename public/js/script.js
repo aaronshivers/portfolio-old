@@ -31,10 +31,6 @@ const certifications = [{
   date: `2019-01-01`,
   link: `https://www.udemy.com/certificate/UC-B7HHYKFQ/`
 }, {
-  name: `The Complete Cyber Security Course : Hackers Exposed!`,
-  date: `2019-01-01`,
-  link: `https://www.udemy.com/certificate/UC-B7HHYKFQ/`
-}, {
   name: `The Complete JavaScript Course 2019: Build Real Projects!`,
   date: `2019-01-01`,
   link: `https://www.udemy.com/certificate/UC-BV80ZEVJ/`
