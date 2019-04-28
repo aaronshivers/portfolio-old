@@ -9,11 +9,11 @@ if ('serviceWorker' in navigator) {
 const certifications = [{
   name: `Advanced JavaScript Concepts`,
   date: `2019-04-01`,
-  link: `https://www.udemy.com/certificate/UC-UNC05E8A/`
+  link: `https://www.udemy.com/certificate/UC-28WZJAIT/`
 }, {
   name: `AWS Serverless APIs & Apps - A Complete Introduction`,
   date: `2019-04-01`,
-  link: `https://www.udemy.com/certificate/UC-28WZJAIT/`
+  link: `https://www.udemy.com/certificate/UC-UNC05E8A/`
 }, {
   name: `Node.js: The Complete Guide to Build RESTful APIs`,
   date: `2019-02-01`,
