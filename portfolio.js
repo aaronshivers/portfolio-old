@@ -7,10 +7,6 @@ const port = process.env.PORT || 3000
 app.use(compression())
 app.use(express.static('public'))
 
-// app.get('/', (req, res) => {
-//   res.render('index')
-// })
-
 app.use((req, res, next) => {
   res.status(404).send('Sorry, we cannot find that!')
 })
